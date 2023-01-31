@@ -1,1 +1,1 @@
-# leetcodeQuiz 문제 저장소
+# leetcodeQuiz 문제 ( javaScript ) 저장소
