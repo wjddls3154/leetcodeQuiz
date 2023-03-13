@@ -1,0 +1,1 @@
+let checkTree = (root) => root.val === (root.right.val + root.left.val);
